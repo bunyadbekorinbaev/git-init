@@ -28,7 +28,7 @@ $Link
 
 # Tasks
 
-- [] heading format
-- [] Image
-- [] Urls
-- [] Table
+- [ ] heading format
+- [ ] Image
+- [ ] Urls
+- [ ] Table
